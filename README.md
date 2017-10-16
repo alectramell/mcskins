@@ -1,7 +1,5 @@
 # MCSKINS #
 
-**MineCraft Skins**
-
 ### INDEX ###
 
 :one: [Template](https://github.com/alectramell/mcskins/blob/master/template.png)
