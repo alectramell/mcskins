@@ -1,9 +1,9 @@
 # MCSKINS #
 
-**by Alec Tramell**
+**MineCraft Skins**
 
-## INDEX ##
+### INDEX ###
 
-:one: [Template](https://raw.githubusercontent.com/alectramell/mcskins/master/template.png)
+:one: [Template](https://github.com/alectramell/mcskins/blob/master/template.png)
 
-:two: [DarkPrince](https://raw.githubusercontent.com/alectramell/mcskins/master/darkprince.png)
+:two: [DarkPrince](https://github.com/alectramell/mcskins/blob/master/darkprince.png)
