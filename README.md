@@ -2,6 +2,6 @@
 
 ### INDEX ###
 
-:one: [Template](https://github.com/alectramell/mcskins/blob/master/template.png)
+:mens: [Template](https://github.com/alectramell/mcskins/blob/master/template.png)
 
-:two: [DarkPrince](https://github.com/alectramell/mcskins/blob/master/darkprince.png)
+:mens: [DarkPrince](https://github.com/alectramell/mcskins/blob/master/darkprince.png)
